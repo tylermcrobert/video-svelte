@@ -12,5 +12,5 @@
 
 
 <div>
-	<video src={url}/>
+	<video src={url} autoplay muted loop/>
 </div>
